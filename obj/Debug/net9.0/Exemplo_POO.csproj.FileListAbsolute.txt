@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\GitHub\Exemplo_POO\bin\Debug\net9.0\Exemplo_POO.exe
+C:\Users\pc\Documents\GitHub\Exemplo_POO\bin\Debug\net9.0\Exemplo_POO.deps.json
+C:\Users\pc\Documents\GitHub\Exemplo_POO\bin\Debug\net9.0\Exemplo_POO.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Exemplo_POO\bin\Debug\net9.0\Exemplo_POO.dll
+C:\Users\pc\Documents\GitHub\Exemplo_POO\bin\Debug\net9.0\Exemplo_POO.pdb
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\Exemplo_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\Exemplo_POO.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\Exemplo_POO.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\Exemplo_POO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\Exemplo_POO.dll
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\refint\Exemplo_POO.dll
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\Exemplo_POO.pdb
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\Exemplo_POO.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\Exemplo_POO\obj\Debug\net9.0\ref\Exemplo_POO.dll
